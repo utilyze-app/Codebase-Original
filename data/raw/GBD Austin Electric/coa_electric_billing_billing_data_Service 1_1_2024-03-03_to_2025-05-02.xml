@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://naesb.org/espi espi.xsd">
+  <id>urn:uuid:5762c9e8-4e65-3b0c-83b3-7874683f3dbe</id>
+  <link href="https://sandbox.greenbuttonalliance.org:8443/DataCustodian/espi/1_1/resource/ApplicationInformation/urn:uuid:5762c9e8-4e65-3b0c-83b3-7874683f3dbe" rel="self" type="espi-feed/Usage">
+  </link>
+  <title type="text">Opower ESPI Third Party Batch Feed v1</title>
+  <updated>2025-05-26T23:59:59Z</updated>
+  <entry>
+    <id>urn:uuid:a54b4212-6ba9-3cbd-b497-91699868c655</id>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/LocalTimeParameters" rel="up" type="espi-feed/LocalTimeParameters">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/LocalTimeParameters/urn:uuid:a54b4212-6ba9-3cbd-b497-91699868c655" rel="self" type="espi-entry/LocalTimeParameters">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint" rel="related" type="espi-feed/UsagePoint">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c" rel="related" type="espi-entry/UsagePoint">
+    </link>
+    <title type="text">Local Time Parameter</title>
+    <updated>2025-05-26T23:59:59Z</updated>
+    <published>2011-11-30T12:00:00.000Z</published>
+    <content type="xml">
+      <LocalTimeParameters xmlns="http://naesb.org/espi">
+        <dstEndRule>B40E2000</dstEndRule>
+        <dstOffset>-21600</dstOffset>
+        <dstStartRule>360E2000</dstStartRule>
+        <tzOffset>-21600</tzOffset>
+      </LocalTimeParameters>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c</id>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c" rel="self" type="espi-entry/UsagePoint">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint" rel="up" type="espi-feed/UsagePoint">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/LocalTimeParameters/urn:uuid:a54b4212-6ba9-3cbd-b497-91699868c655" rel="related" type="espi-entry/LocalTimeParameters">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/MeterReading" rel="related" type="espi-feed/MeterReading">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/MeterReading/urn:uuid:21bb2340-2cd4-3987-9ff0-33931e116b72" rel="related" type="espi-entry/MeterReading">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/UsageSummary" rel="related" type="espi-feed/UsageSummary">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/UsageSummary/urn:uuid:c7dcc488-bc33-3848-956c-273d806d9a9a" rel="related" type="espi-entry/UsageSummary">
+    </link>
+    <title type="text">Usage Point</title>
+    <updated>2025-05-26T23:59:59Z</updated>
+    <published>2011-11-30T12:00:00.000Z</published>
+    <content type="xml">
+      <UsagePoint xmlns="http://naesb.org/espi">
+        <ServiceCategory>
+          <kind>0</kind>
+        </ServiceCategory>
+      </UsagePoint>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:uuid:21bb2340-2cd4-3987-9ff0-33931e116b72</id>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/MeterReading/urn:uuid:21bb2340-2cd4-3987-9ff0-33931e116b72" rel="self" type="espi-entry/MeterReading">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/MeterReading" rel="up" type="espi-feed/MeterReading">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/ReadingType/urn:uuid:e7c7cd10-5e47-3d9c-8684-bd9e7eb401d3" rel="related" type="espi-entry/ReadingType">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c" rel="related" type="espi-entry/UsagePoint">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/MeterReading/urn:uuid:21bb2340-2cd4-3987-9ff0-33931e116b72/IntervalBlock/urn:uuid:bbfcdfe9-97c7-380b-8937-28cfc5575af8" rel="related" type="espi-entry/IntervalBlock">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/MeterReading/urn:uuid:21bb2340-2cd4-3987-9ff0-33931e116b72/IntervalBlock" rel="related" type="espi-feed/IntervalBlock">
+    </link>
+    <title type="text">Meter Reading</title>
+    <updated>2025-05-26T23:59:59Z</updated>
+    <published>2011-11-30T12:00:00.000Z</published>
+    <content type="xml">
+      <MeterReading xmlns="http://naesb.org/espi">
+      </MeterReading>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:uuid:e7c7cd10-5e47-3d9c-8684-bd9e7eb401d3</id>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/ReadingType/urn:uuid:e7c7cd10-5e47-3d9c-8684-bd9e7eb401d3" rel="self" type="espi-entry/ReadingType">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/ReadingType" rel="up" type="espi-feed/ReadingType">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/MeterReading/urn:uuid:21bb2340-2cd4-3987-9ff0-33931e116b72" rel="related" type="espi-entry/MeterReading">
+    </link>
+    <title type="text">Reading Type</title>
+    <updated>2025-05-26T23:59:59Z</updated>
+    <published>2011-11-30T12:00:00.000Z</published>
+    <content type="xml">
+      <ReadingType xmlns="http://naesb.org/espi">
+        <accumulationBehaviour>4</accumulationBehaviour>
+        <commodity>1</commodity>
+        <currency>840</currency>
+        <flowDirection>1</flowDirection>
+        <intervalLength>2678400</intervalLength>
+        <kind>12</kind>
+        <phase>0</phase>
+        <powerOfTenMultiplier>0</powerOfTenMultiplier>
+        <uom>72</uom>
+      </ReadingType>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:uuid:bbfcdfe9-97c7-380b-8937-28cfc5575af8</id>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/MeterReading/urn:uuid:21bb2340-2cd4-3987-9ff0-33931e116b72/IntervalBlock/urn:uuid:bbfcdfe9-97c7-380b-8937-28cfc5575af8" rel="self" type="espi-entry/IntervalBlock">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/MeterReading/urn:uuid:21bb2340-2cd4-3987-9ff0-33931e116b72/IntervalBlock" rel="up" type="espi-feed/IntervalBlock">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/MeterReading/urn:uuid:21bb2340-2cd4-3987-9ff0-33931e116b72" rel="related" type="espi-entry/MeterReading">
+    </link>
+    <title type="text">Interval Block</title>
+    <updated>2025-05-26T23:59:59Z</updated>
+    <published>2011-11-30T12:00:00.000Z</published>
+    <content type="xml">
+      <IntervalBlock xmlns="http://naesb.org/espi">
+        <interval>
+          <duration>36806400</duration>
+          <start>1709424000</start>
+        </interval>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2678400</duration>
+            <start>1709424000</start>
+          </timePeriod>
+          <value>367000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2592000</duration>
+            <start>1712102400</start>
+          </timePeriod>
+          <value>597000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2678400</duration>
+            <start>1714694400</start>
+          </timePeriod>
+          <value>769000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2592000</duration>
+            <start>1717372800</start>
+          </timePeriod>
+          <value>944000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2678400</duration>
+            <start>1719964800</start>
+          </timePeriod>
+          <value>790000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2678400</duration>
+            <start>1722643200</start>
+          </timePeriod>
+          <value>1209000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2592000</duration>
+            <start>1725321600</start>
+          </timePeriod>
+          <value>1015000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2678400</duration>
+            <start>1727913600</start>
+          </timePeriod>
+          <value>789000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2592000</duration>
+            <start>1730592000</start>
+          </timePeriod>
+          <value>571000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2678400</duration>
+            <start>1733184000</start>
+          </timePeriod>
+          <value>391000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2678400</duration>
+            <start>1735862400</start>
+          </timePeriod>
+          <value>295000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2419200</duration>
+            <start>1738540800</start>
+          </timePeriod>
+          <value>296000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2678400</duration>
+            <start>1740960000</start>
+          </timePeriod>
+          <value>443000</value>
+        </IntervalReading>
+        <IntervalReading>
+          <timePeriod>
+            <duration>2592000</duration>
+            <start>1743638400</start>
+          </timePeriod>
+          <value>425000</value>
+        </IntervalReading>
+      </IntervalBlock>
+    </content>
+  </entry>
+  <entry>
+    <id>urn:uuid:c7dcc488-bc33-3848-956c-273d806d9a9a</id>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/UsageSummary" rel="up" type="espi-feed/UsageSummary">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c/UsageSummary/urn:uuid:c7dcc488-bc33-3848-956c-273d806d9a9a" rel="self" type="espi-entry/UsageSummary">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint" rel="related" type="espi-feed/UsagePoint">
+    </link>
+    <link href="https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/Subscription/3985097907/UsagePoint/urn:uuid:0a2abd65-9d1d-3f4e-8649-b3697ed58d6c" rel="related" type="espi-entry/UsagePoint">
+    </link>
+    <title type="text">Usage Summary with Costs</title>
+    <updated>2025-05-26T23:59:59Z</updated>
+    <published>2011-11-30T12:00:00.000Z</published>
+    <content type="xml">
+      <UsageSummary xmlns="http://naesb.org/espi">
+        <billingPeriod>
+          <duration>36802800</duration>
+          <start>1709445600</start>
+        </billingPeriod>
+        <billLastPeriod>128115000</billLastPeriod>
+        <billToDate>256230000</billToDate>
+        <costAdditionalLastPeriod>0</costAdditionalLastPeriod>
+        <currency>840</currency>
+        <overallConsumptionLastPeriod>
+          <powerOfTenMultiplier>0</powerOfTenMultiplier>
+          <timeStamp>1748166837364</timeStamp>
+          <uom>72</uom>
+          <value>8901</value>
+          <readingTypeRef>https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/ReadingType/urn:uuid:e7c7cd10-5e47-3d9c-8684-bd9e7eb401d3</readingTypeRef>
+        </overallConsumptionLastPeriod>
+        <currentBillingPeriodOverAllConsumption>
+          <powerOfTenMultiplier>0</powerOfTenMultiplier>
+          <timeStamp>1748166837364</timeStamp>
+          <uom>72</uom>
+          <value>17802</value>
+          <readingTypeRef>https://sandbox.greenbuttonalliance.org:8443/Opower/espi/1_1/resource/ReadingType/urn:uuid:e7c7cd10-5e47-3d9c-8684-bd9e7eb401d3</readingTypeRef>
+        </currentBillingPeriodOverAllConsumption>
+        <qualityOfReading>0</qualityOfReading>
+        <statusTimeStamp>1748166837364</statusTimeStamp>
+      </UsageSummary>
+    </content>
+  </entry>
+</feed>

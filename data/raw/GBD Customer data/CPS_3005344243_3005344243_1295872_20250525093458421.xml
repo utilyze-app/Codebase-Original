@@ -1,0 +1,174 @@
+<feed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Green Button Export</title>
+  <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=1</id>
+  <updated>2025-05-25T09:35:00Z</updated>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>urn:uuid:05ffdfe5fffc7951e9e89ec053b965c5</id>
+    <title type="text">Green Button Retail Customer - Customer</title>
+    <published>2025-05-25T09:34:59Z</published>
+    <updated>2025-05-25T09:34:59Z</updated>
+    <link rel="up" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer" />
+    <link rel="self" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300" />
+    <link rel="rel" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount" />
+    <link rel="rel" href="/DataCustodian/espi/1_1/resource/LocalTimeParameters/1" />
+    <content type="text/xml">
+      <Customer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://naesb.org/espi/customer">
+        <customerName>KENNETH ANSHEWITZ</customerName>
+      </Customer>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>urn:uuid:f721036f83aea27cf86704a696dd49f0</id>
+    <title type="text">Green Button Retail Customer - Customer Account</title>
+    <published>2025-05-25T09:34:59Z</published>
+    <updated>2025-05-25T09:34:59Z</updated>
+    <link rel="up" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount" />
+    <link rel="self" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300" />
+    <link rel="rel" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement" />
+    <link rel="rel" href="/DataCustodian/espi/1_1/resource/LocalTimeParameters/1" />
+    <content type="text/xml">
+      <CustomerAccount xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://naesb.org/espi/customer">
+        <contactInfo>
+          <streetAddress>
+            <streetDetail>
+              <addressGeneral />
+              <addressGeneral2 />
+            </streetDetail>
+            <townDetail>
+              <name>SAN ANTONIO</name>
+              <stateOrProvince>TX</stateOrProvince>
+              <country>US</country>
+            </townDetail>
+            <postalCode />
+          </streetAddress>
+          <electronicAddress />
+        </contactInfo>
+        <accountId>3005344243</accountId>
+      </CustomerAccount>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>urn:uuid:bfa099d005e9ea27ca7ce824dc282190</id>
+    <title type="text">Green Button Retail Customer - Customer Agreement</title>
+    <published>2025-05-25T09:34:59Z</published>
+    <updated>2025-05-25T09:34:59Z</updated>
+    <link rel="up" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/" />
+    <link rel="self" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700320034003500320031005F0065006C00650063007400720069006300" />
+    <link rel="rel" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700320034003500320031005F0065006C00650063007400720069006300/ServiceSupplier" />
+    <link rel="rel" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700320034003500320031005F0065006C00650063007400720069006300/ServiceLocation" />
+    <link rel="rel" href="/DataCustodian/espi/1_1/resource/LocalTimeParameters/1" />
+    <content type="text/xml">
+      <CustomerAgreement xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://naesb.org/espi/customer">
+        <type>electric</type>
+        <agreementId>SC_1001724521_electric</agreementId>
+      </CustomerAgreement>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>urn:uuid:ec58cc612bd327caa92ee6cc9c0c1e6c</id>
+    <title type="text">Green Button Retail Customer - Customer Agreement</title>
+    <published>2025-05-25T09:34:59Z</published>
+    <updated>2025-05-25T09:34:59Z</updated>
+    <link rel="up" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/" />
+    <link rel="self" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700330035003300370036005F00670061007300" />
+    <link rel="rel" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700330035003300370036005F00670061007300/ServiceSupplier" />
+    <link rel="rel" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700330035003300370036005F00670061007300/ServiceLocation" />
+    <link rel="rel" href="/DataCustodian/espi/1_1/resource/LocalTimeParameters/1" />
+    <content type="text/xml">
+      <CustomerAgreement xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://naesb.org/espi/customer">
+        <type>gas</type>
+        <agreementId>SC_1001735376_gas</agreementId>
+      </CustomerAgreement>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>urn:uuid:63e06ab28b72be2836472e4bb7bda3ac</id>
+    <title type="text">Green Button Retail Customer - Service Location</title>
+    <published>2025-05-25T09:34:59Z</published>
+    <updated>2025-05-25T09:34:59Z</updated>
+    <link rel="up" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700320034003500320031005F0065006C00650063007400720069006300/ServiceLocation/" />
+    <link rel="self" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700320034003500320031005F0065006C00650063007400720069006300/ServiceLocation/4100310033004000720031003100320039003500380037003200" />
+    <link rel="rel" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700320034003500320031005F0065006C00650063007400720069006300/ServiceLocation/4100310033004000720031003100320039003500380037003200/Meter" />
+    <link rel="rel" href="/DataCustodian/espi/1_1/resource/LocalTimeParameters/1" />
+    <content type="text/xml">
+      <ServiceLocation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://naesb.org/espi/customer">
+        <mainAddress>
+          <streetDetail>
+            <addressGeneral>5719 RAVEN PL</addressGeneral>
+            <addressGeneral2 />
+          </streetDetail>
+          <townDetail>
+            <name>SAN ANTONIO</name>
+            <stateOrProvince>TX</stateOrProvince>
+            <country>US</country>
+          </townDetail>
+          <postalCode>78218</postalCode>
+        </mainAddress>
+        <electronicAddress />
+        <UsagePoints>
+          <UsagePoint>/DataCustodian/espi/1_1/resource/Subscription/0/UsagePoint/4100310033004000720031003800320035003900330030003300</UsagePoint>
+        </UsagePoints>
+      </ServiceLocation>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>urn:uuid:63e06ab28b72be2836472e4bb7bda3ac</id>
+    <title type="text">Green Button Retail Customer - Service Location</title>
+    <published>2025-05-25T09:34:59Z</published>
+    <updated>2025-05-25T09:34:59Z</updated>
+    <link rel="up" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700330035003300370036005F00670061007300/ServiceLocation/" />
+    <link rel="self" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700330035003300370036005F00670061007300/ServiceLocation/4100310033004000720031003100320039003500380037003200" />
+    <link rel="rel" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700330035003300370036005F00670061007300/ServiceLocation/4100310033004000720031003100320039003500380037003200/Meter" />
+    <link rel="rel" href="/DataCustodian/espi/1_1/resource/LocalTimeParameters/1" />
+    <content type="text/xml">
+      <ServiceLocation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://naesb.org/espi/customer">
+        <mainAddress>
+          <streetDetail>
+            <addressGeneral>5719 RAVEN PL</addressGeneral>
+            <addressGeneral2 />
+          </streetDetail>
+          <townDetail>
+            <name>SAN ANTONIO</name>
+            <stateOrProvince>TX</stateOrProvince>
+            <country>US</country>
+          </townDetail>
+          <postalCode>78218</postalCode>
+        </mainAddress>
+        <electronicAddress />
+        <UsagePoints>
+          <UsagePoint>/DataCustodian/espi/1_1/resource/Subscription/0/UsagePoint/4100310033004000720031003500310030003500350030003400</UsagePoint>
+        </UsagePoints>
+      </ServiceLocation>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>urn:uuid:faff7e52178af6e42e882b0cfcb82d06</id>
+    <title type="text">Green Button Retail Customer - Meter</title>
+    <published>2025-05-25T09:34:59Z</published>
+    <updated>2025-05-25T09:34:59Z</updated>
+    <link rel="up" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700320034003500320031005F0065006C00650063007400720069006300/ServiceLocation/4100310033004000720031003100320039003500380037003200/Meter/" />
+    <link rel="self" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700320034003500320031005F0065006C00650063007400720069006300/ServiceLocation/4100310033004000720031003100320039003500380037003200/Meter/4100310033004000720031003100320039003500380037003200" />
+    <link rel="rel" href="/DataCustodian/espi/1_1/resource/LocalTimeParameters/1" />
+    <content type="text/xml">
+      <Meter xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://naesb.org/espi/customer">
+        <type>electric</type>
+        <utcNumber>8259303</utcNumber>
+      </Meter>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>urn:uuid:180a730ec604c8b73ab93beece0f1bc8</id>
+    <title type="text">Green Button Retail Customer - Meter</title>
+    <published>2025-05-25T09:34:59Z</published>
+    <updated>2025-05-25T09:34:59Z</updated>
+    <link rel="up" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700330035003300370036005F00670061007300/ServiceLocation/4100310033004000720031003100320039003500380037003200/Meter/" />
+    <link rel="self" href="User/950a4152c2b4aa3ad78bdd6b366cc179/RetailCustomer/0/Customer/4100310033004000720031003300300030003500330034003400320034003300/CustomerAccount/4100310033004000720031003300300030003500330034003400320034003300/CustomerAgreement/410031003300400072003100530043005F0031003000300031003700330035003300370036005F00670061007300/ServiceLocation/4100310033004000720031003100320039003500380037003200/Meter/4100310033004000720031003100320039003500380037003200" />
+    <link rel="rel" href="/DataCustodian/espi/1_1/resource/LocalTimeParameters/1" />
+    <content type="text/xml">
+      <Meter xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://naesb.org/espi/customer">
+        <type>gas</type>
+        <utcNumber>5105504</utcNumber>
+      </Meter>
+    </content>
+  </entry>
+</feed>

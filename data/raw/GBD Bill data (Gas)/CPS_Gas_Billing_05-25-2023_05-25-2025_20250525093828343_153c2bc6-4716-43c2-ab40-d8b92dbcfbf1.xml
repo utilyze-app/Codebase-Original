@@ -1,0 +1,1464 @@
+<feed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Green Button Export</title>
+  <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=2</id>
+  <updated>2025-05-25T09:38:28Z</updated>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>7797c16129e5775340016a66e7855184</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <content type="text/xml">
+      <espi:UsagePoint xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:ServiceCategory>
+          <espi:kind>1</espi:kind>
+        </espi:ServiceCategory>
+        <espi:serviceDeliveryPoint>
+          <espi:tariffProfile>CPS-1G</espi:tariffProfile>
+        </espi:serviceDeliveryPoint>
+      </espi:UsagePoint>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>7797c16129e5775340016a66e7855184</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <content type="text/xml">
+      <espi:MeterReading xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>7797c16129e5775340016a66e7855184</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/MeterReading/01/IntervalBlock/01" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/MeterReading/01/IntervalBlock" />
+    <content type="text/xml">
+      <espi:IntervalBlock xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:interval>
+          <espi:duration>63417600</espi:duration>
+          <espi:start>1684281600</espi:start>
+        </espi:interval>
+        <espi:IntervalReading>
+          <espi:cost>803000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2851200</espi:duration>
+            <espi:start>1744848000</espi:start>
+          </espi:timePeriod>
+          <espi:value>15000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>910000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2505600</espi:duration>
+            <espi:start>1742342400</espi:start>
+          </espi:timePeriod>
+          <espi:value>17000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>1605000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2419200</espi:duration>
+            <espi:start>1739923200</espi:start>
+          </espi:timePeriod>
+          <espi:value>30000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>2622000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2505600</espi:duration>
+            <espi:start>1737417600</espi:start>
+          </espi:timePeriod>
+          <espi:value>49000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>535000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2764800</espi:duration>
+            <espi:start>1729123200</espi:start>
+          </espi:timePeriod>
+          <espi:value>10000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>375000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2505600</espi:duration>
+            <espi:start>1726617600</espi:start>
+          </espi:timePeriod>
+          <espi:value>7000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>161000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2592000</espi:duration>
+            <espi:start>1724025600</espi:start>
+          </espi:timePeriod>
+          <espi:value>3000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>375000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2764800</espi:duration>
+            <espi:start>1721260800</espi:start>
+          </espi:timePeriod>
+          <espi:value>7000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>321000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2592000</espi:duration>
+            <espi:start>1718668800</espi:start>
+          </espi:timePeriod>
+          <espi:value>6000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>696000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2764800</espi:duration>
+            <espi:start>1715904000</espi:start>
+          </espi:timePeriod>
+          <espi:value>13000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>1070000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2592000</espi:duration>
+            <espi:start>1713312000</espi:start>
+          </espi:timePeriod>
+          <espi:value>20000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>1177000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2505600</espi:duration>
+            <espi:start>1710806400</espi:start>
+          </espi:timePeriod>
+          <espi:value>22000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>1498000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2505600</espi:duration>
+            <espi:start>1708300800</espi:start>
+          </espi:timePeriod>
+          <espi:value>28000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>3103000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2678400</espi:duration>
+            <espi:start>1705622400</espi:start>
+          </espi:timePeriod>
+          <espi:value>58000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>4340000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2678400</espi:duration>
+            <espi:start>1702944000</espi:start>
+          </espi:timePeriod>
+          <espi:value>85000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>2757000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2678400</espi:duration>
+            <espi:start>1700265600</espi:start>
+          </espi:timePeriod>
+          <espi:value>54000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>1430000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2678400</espi:duration>
+            <espi:start>1697587200</espi:start>
+          </espi:timePeriod>
+          <espi:value>28000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>664000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2505600</espi:duration>
+            <espi:start>1695081600</espi:start>
+          </espi:timePeriod>
+          <espi:value>13000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>408000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2851200</espi:duration>
+            <espi:start>1692230400</espi:start>
+          </espi:timePeriod>
+          <espi:value>8000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>408000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2505600</espi:duration>
+            <espi:start>1689724800</espi:start>
+          </espi:timePeriod>
+          <espi:value>8000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>511000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2851200</espi:duration>
+            <espi:start>1686873600</espi:start>
+          </espi:timePeriod>
+          <espi:value>10000</espi:value>
+        </espi:IntervalReading>
+        <espi:IntervalReading>
+          <espi:cost>357000</espi:cost>
+          <espi:ReadingQuality>
+            <espi:quality>0</espi:quality>
+          </espi:ReadingQuality>
+          <espi:timePeriod>
+            <espi:duration>2592000</espi:duration>
+            <espi:start>1684281600</espi:start>
+          </espi:timePeriod>
+          <espi:value>7000</espi:value>
+        </espi:IntervalReading>
+      </espi:IntervalBlock>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>7797c16129e5775340016a66e7855184</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <content type="text/xml">
+      <espi:LocalTimeParameters xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:dstEndRule>B40E2000</espi:dstEndRule>
+        <espi:dstOffset>3600</espi:dstOffset>
+        <espi:dstStartRule>360E2000</espi:dstStartRule>
+        <espi:tzOffset>0</espi:tzOffset>
+      </espi:LocalTimeParameters>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=3</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/01" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2851200</espi:duration>
+          <espi:start>1744848000</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1747699200</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1747699200</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>33</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1700</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1500</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1744848000</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=4</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/02" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2505600</espi:duration>
+          <espi:start>1742342400</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1744848000</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1744848000</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>29</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>3000</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1700</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1742342400</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=5</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/03" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2419200</espi:duration>
+          <espi:start>1739923200</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1742342400</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1742342400</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>28</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>4900</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>3000</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1739923200</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=6</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/04" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2505600</espi:duration>
+          <espi:start>1737417600</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1739923200</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1739923200</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>29</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1000</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>4900</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1737417600</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=7</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/05" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2764800</espi:duration>
+          <espi:start>1729123200</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1731888000</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1731888000</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>32</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>700</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1000</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1729123200</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=8</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/06" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2505600</espi:duration>
+          <espi:start>1726617600</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1729123200</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1729123200</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>29</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>300</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>700</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1726617600</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=9</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/07" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2592000</espi:duration>
+          <espi:start>1724025600</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1726617600</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1726617600</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>30</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>700</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>300</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1724025600</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=10</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/08" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2764800</espi:duration>
+          <espi:start>1721260800</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1724025600</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1724025600</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>32</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>600</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>700</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1721260800</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=11</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/09" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2592000</espi:duration>
+          <espi:start>1718668800</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1721260800</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1721260800</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>30</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1300</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>600</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1718668800</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=12</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/10" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2764800</espi:duration>
+          <espi:start>1715904000</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1718668800</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1718668800</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>32</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>2000</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1300</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1715904000</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=13</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/11" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2592000</espi:duration>
+          <espi:start>1713312000</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1715904000</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1715904000</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>30</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>2200</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>2000</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1713312000</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=14</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/12" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2505600</espi:duration>
+          <espi:start>1710806400</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1713312000</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1713312000</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>29</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>2800</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>2200</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1710806400</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=15</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/13" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2505600</espi:duration>
+          <espi:start>1708300800</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1710806400</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1710806400</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>29</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>5800</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>2800</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1708300800</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=16</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/14" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2678400</espi:duration>
+          <espi:start>1705622400</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1708300800</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1708300800</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>31</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>8500</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>5800</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1705622400</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=17</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/15" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2678400</espi:duration>
+          <espi:start>1702944000</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1705622400</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1705622400</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>31</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>5400</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>8500</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1702944000</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=18</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/16" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2678400</espi:duration>
+          <espi:start>1700265600</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1702944000</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1702944000</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>31</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>2800</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>5400</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1700265600</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=19</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/17" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2678400</espi:duration>
+          <espi:start>1697587200</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1700265600</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1700265600</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>31</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1300</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>2800</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1697587200</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=20</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/18" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2505600</espi:duration>
+          <espi:start>1695081600</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1697587200</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1697587200</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>29</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>800</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1300</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1695081600</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=21</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/19" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2851200</espi:duration>
+          <espi:start>1692230400</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1695081600</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1695081600</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>33</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>800</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>800</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1692230400</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=22</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/20" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2505600</espi:duration>
+          <espi:start>1689724800</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1692230400</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1692230400</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>29</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1000</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>800</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1689724800</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=23</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/21" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2851200</espi:duration>
+          <espi:start>1686873600</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1689724800</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1689724800</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>33</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>700</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>1000</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1686873600</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+  <entry xmlns:espi="http://naesb.org/espi">
+    <id>uuid:13188b12-2ce8-44aa-b4d2-7597294fd466;id=24</id>
+    <title type="text" />
+    <updated>2025-05-25T09:38:28Z</updated>
+    <link rel="self" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary/22" />
+    <link rel="up" href="User/7797c16129e5775340016a66e7855184/UsagePoint/01/UsageSummary" />
+    <content type="text/xml">
+      <espi:UsageSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <espi:billingPeriod>
+          <espi:duration>2592000</espi:duration>
+          <espi:start>1684281600</espi:start>
+        </espi:billingPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Bill Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1686873600</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Due Date</espi:note>
+          <espi:measurement>
+            <espi:uom>27</espi:uom>
+            <espi:value>1686873600</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:costAdditionalDetailLastPeriod>
+          <espi:note>Number of days in bill period</espi:note>
+          <espi:measurement>
+            <espi:uom>114</espi:uom>
+            <espi:value>30</espi:value>
+          </espi:measurement>
+          <espi:itemKind>10</espi:itemKind>
+        </espi:costAdditionalDetailLastPeriod>
+        <espi:currency>840</espi:currency>
+        <espi:overallConsumptionLastPeriod>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>0</espi:value>
+        </espi:overallConsumptionLastPeriod>
+        <espi:currentBillingPeriodOverAllConsumption>
+          <espi:powerOfTenMultiplier>0</espi:powerOfTenMultiplier>
+          <espi:uom>119</espi:uom>
+          <espi:value>700</espi:value>
+        </espi:currentBillingPeriodOverAllConsumption>
+        <espi:peakDemand />
+        <espi:qualityOfReading>0</espi:qualityOfReading>
+        <espi:statusTimeStamp>1684281600</espi:statusTimeStamp>
+      </espi:UsageSummary>
+    </content>
+  </entry>
+</feed>

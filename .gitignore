@@ -1,0 +1,159 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+.nuxt/
+.output/
+.vite/
+.turbo/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# AI/ML models and cache
+.cache/
+models/
+*.pkl
+*.model
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Storybook build outputs
+.out
+.storybook-out
+
+# Temporary folders
+tmp/
+temp/
+
+# Archive directory (contains old/duplicate projects)
+archive/
+
+# Large data files in data directory
+data/raw/**/*.zip
+data/raw/**/*.csv
+data/processed/**/*.csv
+
+# Image files (unless they're in assets)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+!assets/images/**/*
+!apps/**/public/**/*.png
+!apps/**/public/**/*.jpg
+!apps/**/public/**/*.jpeg
+!apps/**/public/**/*.svg
+!apps/**/src/assets/**/*.png
+!apps/**/src/assets/**/*.jpg
+!apps/**/src/assets/**/*.jpeg
+!apps/**/src/assets/**/*.svg
+
+# Documentation files that might contain sensitive info
+docs/*
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Processed data outputs
+merged_output*.csv
+updated_*.csv
+
+# Backup files
+data/backup_*/
+
+# Application-specific generated files
+apps/**/artifacts/
