@@ -157,3 +157,7 @@ data/backup_*/
 
 # Application-specific generated files
 apps/**/artifacts/
+ 
+# Local backups of nested repo metadata created during monorepo import
+.git_backup/
+apps/*/.git_backup/
